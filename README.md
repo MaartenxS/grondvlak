@@ -1,5 +1,5 @@
- Grondvlak
-=========
+ Grondvlak - De basis voor een nieuw project
+=============================================
 Deze repository is erop gericht om de beginselen een beetje in de vingers te krijgen.
 Meer dan een beetje uitproberen zal het niet zijn.
 
