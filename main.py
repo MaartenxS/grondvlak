@@ -1,4 +1,3 @@
-import numpy as np
-import pandas as pd
-from matplotlib import pylot as plt
+# grondvlak/main.py
+# this should be the main program, calling the functions, initiating the GUI (if available).
 
