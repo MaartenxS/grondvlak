@@ -7,7 +7,8 @@ Om dat uitproberen wat te stroomlijnen hier enkele speerpunten:
 - meer leren is meer weten
 - Now let's go do something!
 
-EDIT 10-02-2020:
+EDIT 10-02-2020: A fresh start
+
 Het begin hierboven is nu 5 jaar geleden. 
 Een nieuwe baan, een nieuw begin, tijd om dingen te herzien, en github en versie beheer een nieuwe kans te geven.
 Naast de readme wil ik een stuk code toevoegen aan deze repository.
