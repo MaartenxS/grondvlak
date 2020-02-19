@@ -14,6 +14,7 @@ Naast de readme wil ik een stuk code toevoegen aan deze repository.
 
 EDIT 19-02-2020:
 Project doelstellingen
+
 0. Effectief en efficient data analyseren
 1. Visualiseren van data analyse
 2. Leren functioneel programmeren
